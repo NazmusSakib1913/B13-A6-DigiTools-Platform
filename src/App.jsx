@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import Banner from './components/Banner'
 import Stats from './components/Stats'
 import ProductSection from './components/ProductSection'
+import StepsSection from './components/StepsSection'
 
 function App() {
   const [cartItems, setCartItems] = useState([])
@@ -36,6 +37,7 @@ function App() {
         onRemoveFromCart={removeFromCart}
         onClearCart={clearCart}
       />
+      <StepsSection />
 
       {/* Placeholder — more sections coming soon */}
       <div className="flex items-center justify-center py-20">
