@@ -7,6 +7,7 @@ import Stats from './components/Stats'
 import ProductSection from './components/ProductSection'
 import StepsSection from './components/StepsSection'
 import PricingSection from './components/PricingSection'
+import Footer from './components/Footer'
 
 function App() {
   const [cartItems, setCartItems] = useState([])
@@ -40,11 +41,7 @@ function App() {
       />
       <StepsSection />
       <PricingSection />
-
-      {/* Placeholder — Footer coming soon */}
-      <div className="flex items-center justify-center py-10">
-        <p className="text-gray-400 text-sm">Footer coming soon...</p>
-      </div>
+      <Footer />
     </div>
   )
 }
