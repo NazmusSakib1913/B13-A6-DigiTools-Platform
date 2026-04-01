@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "AI Writing Pro",
-    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI writing assistance.",
     "price": 29,
     "period": "monthly",
     "tag": "Best Seller",
@@ -10,83 +10,153 @@
     "features": [
       "Unlimited AI generations",
       "50+ writing templates",
-      "Grammar checker"
+      "Grammar & tone checker",
+      "Plagiarism detector"
     ],
-    "icon": "writing_2327400 1.png"
+    "icon": "writing.png"
   },
   {
     "id": 2,
     "name": "Design Templates Pack",
-    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials — all in one place.",
     "price": 49,
     "period": "one-time",
     "tag": "Popular",
     "tagType": "popular",
     "features": [
-      "2000+ templates",
-      "Monthly updates",
-      "Commercial license"
+      "2000+ ready-made templates",
+      "Monthly new additions",
+      "Commercial license included",
+      "Multi-format export"
     ],
     "icon": "design-tool.png"
   },
   {
     "id": 3,
     "name": "Premium Stock Assets",
-    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your creative projects and campaigns.",
     "price": 19,
     "period": "monthly",
     "tag": "New",
     "tagType": "new",
     "features": [
-      "10M+ assets",
-      "Commercial use",
-      "No attribution"
+      "10M+ premium assets",
+      "Commercial use allowed",
+      "No attribution required",
+      "Daily new uploads"
     ],
     "icon": "portfolio.png"
   },
   {
     "id": 4,
     "name": "Automation Toolkit",
-    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful no-code automation tools.",
     "price": 79,
     "period": "monthly",
     "tag": "Popular",
     "tagType": "popular",
     "features": [
-      "50+ automations",
-      "API access",
-      "Custom workflows"
+      "50+ automation templates",
+      "Full API access",
+      "Custom workflow builder",
+      "Real-time monitoring"
     ],
     "icon": "operation.png"
   },
   {
     "id": 5,
     "name": "Resume Builder Pro",
-    "description": "Create professional resumes and cover letters that land interviews.",
+    "description": "Create professional, ATS-friendly resumes and cover letters that help you land your dream interviews.",
     "price": 15,
     "period": "one-time",
     "tag": "New",
     "tagType": "new",
     "features": [
-      "100+ templates",
-      "ATS optimization",
-      "Export to PDF"
+      "100+ professional templates",
+      "ATS optimization scanner",
+      "Export to PDF & Word",
+      "Cover letter generator"
     ],
     "icon": "shopping-cart.png"
   },
   {
     "id": 6,
     "name": "Social Media Content Kit",
-    "description": "Complete toolkit for creating engaging social media content across all platforms.",
+    "description": "Complete toolkit for creating engaging social media content across all major platforms effortlessly.",
     "price": 39,
     "period": "monthly",
     "tag": "Best Seller",
     "tagType": "best seller",
     "features": [
-      "5000+ assets",
-      "Scheduler included",
-      "Analytics dashboard"
+      "5000+ content assets",
+      "Post scheduler included",
+      "Analytics dashboard",
+      "Multi-platform support"
     ],
     "icon": "social-media.png"
+  },
+  {
+    "id": 7,
+    "name": "SEO Master Suite",
+    "description": "Dominate search rankings with advanced keyword research, competitor analysis, and on-page SEO tools.",
+    "price": 59,
+    "period": "monthly",
+    "tag": "Popular",
+    "tagType": "popular",
+    "features": [
+      "Keyword research tool",
+      "Competitor gap analysis",
+      "On-page SEO audits",
+      "Backlink tracker"
+    ],
+    "icon": "operation.png"
+  },
+  {
+    "id": 8,
+    "name": "Video Editor Online",
+    "description": "Edit and publish professional videos directly from your browser — no software installation needed.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "4K video export",
+      "100+ transitions & effects",
+      "Auto subtitle generator",
+      "Cloud storage included"
+    ],
+    "icon": "design-tool.png"
+  },
+  {
+    "id": 9,
+    "name": "Email Marketing Pro",
+    "description": "Build, automate, and optimize email campaigns that convert subscribers into loyal customers.",
+    "price": 45,
+    "period": "monthly",
+    "tag": "Best Seller",
+    "tagType": "best seller",
+    "features": [
+      "Drag & drop email builder",
+      "Advanced segmentation",
+      "A/B testing built-in",
+      "Detailed analytics"
+    ],
+    "icon": "social-media.png"
+  },
+  {
+    "id": 10,
+    "name": "Link Shortener & Tracker",
+    "description": "Create branded short links, track clicks in real-time, and analyze your audience's behavior.",
+    "price": 12,
+    "period": "monthly",
+    "tag": "New",
+    "tagType": "new",
+    "features": [
+      "Custom branded links",
+      "Real-time click analytics",
+      "QR code generator",
+      "UTM parameter builder"
+    ],
+    "icon": "portfolio.png"
   }
 ]
