@@ -6,6 +6,7 @@ import Banner from './components/Banner'
 import Stats from './components/Stats'
 import ProductSection from './components/ProductSection'
 import StepsSection from './components/StepsSection'
+import PricingSection from './components/PricingSection'
 
 function App() {
   const [cartItems, setCartItems] = useState([])
@@ -38,10 +39,11 @@ function App() {
         onClearCart={clearCart}
       />
       <StepsSection />
+      <PricingSection />
 
-      {/* Placeholder — more sections coming soon */}
-      <div className="flex items-center justify-center py-20">
-        <p className="text-gray-400 text-lg">More sections coming soon...</p>
+      {/* Placeholder — Footer coming soon */}
+      <div className="flex items-center justify-center py-10">
+        <p className="text-gray-400 text-sm">Footer coming soon...</p>
       </div>
     </div>
   )
